@@ -44,5 +44,10 @@ The chatbot follows a **rule-based approach** with predefined conversational res
 ### 3. Chatbot Response
 ![Chatbot Response](screenshots/chatbot_3.png)
 
+## ✅ Result
+The customer support chatbot successfully responds to user queries in real time through an interactive chat interface.  
+It effectively handles common customer questions related to product details, pricing, delivery, warranty, and payment methods.  
+The chatbot provides a smooth and user-friendly experience, demonstrating a practical customer support solution using Python and Streamlit.
+
 
 
