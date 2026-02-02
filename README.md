@@ -30,7 +30,19 @@ The chatbot follows a **rule-based approach** with predefined conversational res
 1. User enters a message in the chat input box  
 2. The chatbot processes the input using predefined rules  
 3. A suitable response is generated  
-4. Chat history is maintained during the session  
+4. Chat history is maintained during the session
+
+
+## 📸 Screenshots
+
+### 1. Chatbot Interface
+![Chatbot Interface](screenshots/chatbot_1.png)
+
+### 2. User Interaction
+![User Interaction](screenshots/chatbot_2.png)
+
+### 3. Chatbot Response
+![Chatbot Response](screenshots/chatbot_3.png)
 
 
 
